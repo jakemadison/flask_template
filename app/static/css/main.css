@@ -1,0 +1,5 @@
+html { height: 100% }
+body { height: 100%; margin: 0; padding: 0 }
+
+.jumbotron {max-width: 700px}
+.pagename {max-width: 700px; margin-bottom: 2px}
