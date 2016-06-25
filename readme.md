@@ -1,3 +1,3 @@
-<b>Site Name/b>
+<b>Site Name</b>
 
 Something about your project.
